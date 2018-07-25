@@ -1,1 +1,1 @@
-# demo-odoo.sh
+# demo-odoo.sh.
