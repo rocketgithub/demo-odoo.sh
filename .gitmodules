@@ -14,3 +14,7 @@
 	path = importaciones
 	url = git@github.com:rocketgithub/importaciones.git
 	branch = 10.0
+[submodule "kardex"]
+	path = kardex
+	url = https://github.com/rocketgithub/kardex.git
+	branch = 11.0
