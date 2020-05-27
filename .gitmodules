@@ -22,3 +22,6 @@
 	path = pos_gt
 	url = https://github.com/rocketgithub/pos_gt.git
 	branch = 11.0
+[submodule "payment_visanet"]
+	path = payment_visanet
+	url = git@github.com:rocketgithub/payment_visanet.git
