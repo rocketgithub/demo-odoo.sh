@@ -25,3 +25,6 @@
 [submodule "payment_visanet"]
 	path = payment_visanet
 	url = git@github.com:rocketgithub/payment_visanet.git
+[submodule "crm_flow"]
+	path = crm_flow
+	url = git@github.com:rocketgithub/crm_flow.git
